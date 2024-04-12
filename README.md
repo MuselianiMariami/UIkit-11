@@ -9,8 +9,7 @@
 <br/>
 <br/>
 <h2>Constraints</h2>
-
-* label ტექსტით "welcome"
+* ლეიბლი ტექსტით "welcome"
  <br/>
 safe area დან არის დაშორებული 20 - ით
 <br/>
