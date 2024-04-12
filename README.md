@@ -55,8 +55,7 @@ spacing - 30 და შიდა ლეიბლებს აქვთ ერთ
 <div align="center">
  <img src="https://github.com/MuselianiMariami/UIkit-11/assets/137683336/a48872c5-41cc-43bb-a6a0-31845abfa007" alt="initial" width="300">
 
-![image-from-rawpixel-id-10866509-png](https://github.com/MuselianiMariami/UIkit-11/assets/137683336/39160390-c0df-4ca3-bfb6-90152ee21874)
-
+<img src="https://github.com/MuselianiMariami/UIkit-11/assets/137683336/7c5e7ce5-71f1-439e-831e-1a1f49929139" width="100" >
 
  <img src="https://github.com/MuselianiMariami/UIkit-11/assets/137683336/f135f006-ace6-41b5-aa53-6a4961f4e9b3" alt="done" width="300">
 </div>
