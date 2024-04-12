@@ -52,7 +52,7 @@ leading, trailing  - 10
 spacing - 30 და შიდა ლეიბლებს აქვთ ერთნაირი სიმაღლე
 <br/>
 <br/>
-<div style="text-align:center;">
+<div style="align-self:center;">
  <img src="https://github.com/MuselianiMariami/UIkit-11/assets/137683336/79e0cd3e-0f72-4004-a1ed-75c5938ad79e" alt="Done" width="300" align="center">
 </div>
  
